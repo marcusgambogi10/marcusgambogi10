@@ -1,4 +1,4 @@
-### Hello! I'm Helton Barbosa 👋
+### Hello! I'm Marcus Gambogi 👋
 
 <!--
 **helton-barbosa/helton-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,10 +32,6 @@ Here are some ideas to get you started:
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Helton-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <!--<img align="center" alt="Helton-PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">-->
-    <img align="center" alt="Helton-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="Helton-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="Helton-PopOS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
-    <img align="center" alt="Helton-freebsd" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
   </div>
     
   <div align="center" style="display: inline_block"><br>
